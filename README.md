@@ -84,11 +84,7 @@ The machine learning workflow was created using Azure Machine Learning Designer.
 
 # 🖼 Pipeline Architecture
 
-> Replace the image below with your uploaded pipeline screenshot.
-
-```markdown
 ![Azure ML Pipeline](Auto%20ML%20Designer%20Pipeline.png)
-```
 
 ---
 
@@ -162,17 +158,11 @@ Azure-ML-Designer-Sales-Prediction
 
 ## Azure ML Designer Pipeline
 
-```markdown
-![Pipeline](Images/pipeline.png)
-```
+![Azure ML Pipeline](Auto%20ML%20Designer%20Pipeline.png)
 
 ## Model Evaluation
 
-```markdown
-![Evaluation Metrics](Images/evaluation_metrics.png)
-```
-
----
+![Azure ML Pipeline](Auto%20ML%20Designer%20Pipeline%20output.png)
 
 # 📚 Key Learning Outcomes
 
@@ -205,11 +195,9 @@ Potential enhancements include:
 
 # 📄 Project Report
 
-A detailed project report is available in the **Report** folder.
+A detailed project report is available below.
 
-```
-Report/Azure_ML_Designer_Project_Report.pdf
-```
+[📄 Azure ML Designer Pipeline Sales Data Project Report](Azure%20auto%20ML%20Designer%20Pipeline%20Sales%20Data%20Project%20Report.pdf)
 
 ---
 
